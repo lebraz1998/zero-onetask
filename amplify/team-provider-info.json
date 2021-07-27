@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zeroandone-dev-170135-authRole",
+      "UnauthRoleArn": "arn:aws:iam::169000459893:role/amplify-zeroandone-dev-170135-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::169000459893:role/amplify-zeroandone-dev-170135-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-zeroandone-dev-170135-deployment",
+      "UnauthRoleName": "amplify-zeroandone-dev-170135-unauthRole",
+      "StackName": "amplify-zeroandone-dev-170135",
+      "StackId": "arn:aws:cloudformation:eu-central-1:169000459893:stack/amplify-zeroandone-dev-170135/2992de50-eee3-11eb-aed7-0af1f4ba70f8",
+      "AmplifyAppId": "dus6hfl9y9kak"
+    },
+    "categories": {
+      "auth": {
+        "zeroandone26143f04": {}
+      }
+    }
+  }
+}
